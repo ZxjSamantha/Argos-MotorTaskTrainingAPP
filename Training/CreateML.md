@@ -65,3 +65,15 @@ Prediction results
 - Prediction class("Pose A" or "Not Pose A")
 
 - Confidence interval 
+
+---
+
+hmdb51 dataset
+
+The dataset contains 6849 clips divided into 51 action categories, each containing a minimum of 101 clips. Each clip are 2 seconds. The actions categories can be grouped in five types:
+
+1.  General facial actions smile, laugh, chew, talk. 
+2.  Facial actions with object manipulation: smoke, eat, drink.
+3.  General body movements: cartwheel, clap hands, climb, climb stairs, dive, fall on the floor, backhand flip, handstand, jump, pull up, run, sit down, sit up, somersault, stand up, turn, walk, wave.
+4.  Body movements with object interaction: brush hair, catch, draw sword, dribble, golf, hit something, kick ball, pick, pour, push something, ride bike, ride horse, shoot ball, shoot bow, shoot gun, swing baseball bat, sword exercise, throw.
+5.  Body movements for human interaction: fencing, hug, kick someone, kiss, punch, shake hands, sword fight.
