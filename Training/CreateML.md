@@ -39,3 +39,29 @@ Using the model in your app
 - Counting action repetitions, find a reliable trigger and start prediction in the correct time. 
 
 - Scoring or judging quality of an action (confidence value)
+
+---
+
+Training dataset
+
+- 8 "Pose A" 2s video clips
+
+- 8 "Not Pose A" 2s video clips 
+
+Data augmentation
+
+- Horizontal flip
+
+Recurrent neural network model training
+
+- 80 iterations 
+
+Prediction window on live camera feed
+
+- 60 frame
+
+Prediction results
+
+- Prediction class("Pose A" or "Not Pose A")
+
+- Confidence interval 
